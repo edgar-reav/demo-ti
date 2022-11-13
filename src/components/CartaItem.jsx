@@ -1,5 +1,5 @@
 export default function CartaItem({ item }) {
-  const imagen = item.poster_path ? import.meta.env.VITE_API_IMAGE_URL + item.poster_path : "../images/null_imagen.png";
+  const imagen = item.poster_path ? import.meta.env.VITE_API_IMAGE_URL + item.poster_path : "./images/null_imagen.png";
   return (
     <div className="card" style={{ height: "600px" }}>
       <img src={imagen} className="card-img-top" alt={item.original_title} height="400" />
