@@ -4,7 +4,7 @@ export default function Navbar({ home, submit, buscar }) {
       <nav className="navbar navbar-expand-sm navbar-dark py-5 px-2 mb-4">
         <div className="container p-0 d-flex justify-content-center justify-content-sm-start">
           <a className="navbar-brand p-0 m-0" href="/">
-            <img src="../../public/img/Netflix_logo.png" width="200" height="70" />
+            <img src="../images/Netflix_logo.png" width="200" height="70" />
           </a>
         </div>
       </nav>
@@ -15,7 +15,7 @@ export default function Navbar({ home, submit, buscar }) {
     <nav className="navbar navbar-expand-md p-3">
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
-          <img src="../../public/img/Netflix_logo.png" width="100" height="30" />
+          <img src="../images/Netflix_logo.png" width="100" height="30" />
         </a>
         <button className="navbar-toggler bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
