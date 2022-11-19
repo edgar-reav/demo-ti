@@ -27,7 +27,7 @@
 
 
 ### Pasos para desplegarlo en Docker:  
-- Para desplegar esta aplicacion en *Docker* solo tiene que seguir los pasos del video y listo. [Despliegue en Docker](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+- Para desplegar esta aplicacion en *Docker* solo tiene que seguir los pasos del video y listo. [Despliegue en Docker](https://www.youtube.com/watch?v=jOhhj6tggWU)  
   
 
 
